@@ -1,0 +1,1 @@
+function summing(integers) {}
